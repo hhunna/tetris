@@ -1,0 +1,5 @@
+LARGEUR=10
+HAUTEUR=18
+TAILLE_CASE=30
+VITESSE_INITIALE=0.5
+COULEURS=red,green,blue,cyan,magenta,orange,yellow
